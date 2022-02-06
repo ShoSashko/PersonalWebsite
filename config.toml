@@ -5,8 +5,8 @@ title = "Sashko"
 [params]
   google_analytics_id = ""
   twitter_handle = "@zerostaticio"
-  showAuthorOnHomepage = false
-  showAuthorOnPosts = false
-  showPostsOnHomepage = false
-  addFrame = false
-  addDot = false
+  showAuthorOnHomepage = true
+  showAuthorOnPosts = true
+  showPostsOnHomepage = true
+  addFrame = true
+  addDot = true
