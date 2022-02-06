@@ -1,4 +1,7 @@
-baseURL = "/"
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+baseURL = "/exampleSite"
 themesDir = "themes"
 theme = "hugo-winston-theme"
 [params]
