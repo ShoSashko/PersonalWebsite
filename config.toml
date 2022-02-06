@@ -1,6 +1,7 @@
 baseURL = "/"
 themesDir = "themes"
 theme = "hugo-winston-theme"
+title = "Sashko"
 [params]
   google_analytics_id = ""
   twitter_handle = "@zerostaticio"
