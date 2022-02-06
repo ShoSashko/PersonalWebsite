@@ -1,0 +1,11 @@
+baseURL = "/"
+themesDir = "themes"
+theme = "hugo-winston-theme"
+[params]
+  google_analytics_id = ""
+  twitter_handle = "@zerostaticio"
+  showAuthorOnHomepage = false
+  showAuthorOnPosts = false
+  showPostsOnHomepage = false
+  addFrame = false
+  addDot = false
