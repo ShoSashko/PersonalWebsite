@@ -10,3 +10,4 @@ title = "Sashko"
   showPostsOnHomepage = true
   addFrame = true
   addDot = true
+  scss = "dart-sass"
